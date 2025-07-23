@@ -1,0 +1,6 @@
+@SOTaskManagement_HostAddress = http://localhost:5032
+
+GET {{SOTaskManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
